@@ -1,0 +1,1 @@
+# Ignore Maven build output\n**/target/\n# IntelliJ / VS Code user files\n*.iml\n.idea/\n.vscode/\n
