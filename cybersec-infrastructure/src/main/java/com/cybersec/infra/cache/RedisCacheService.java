@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.cache;
+package com.cybersec.infra.cache;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
