@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.messaging;
+package com.cybersec.infra.messaging;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;

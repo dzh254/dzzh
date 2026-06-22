@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.graph;
+package com.cybersec.infra.graph;
 
 import jakarta.annotation.PostConstruct;
 import lombok.extern.slf4j.Slf4j;

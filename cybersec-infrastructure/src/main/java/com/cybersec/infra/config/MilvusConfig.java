@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.config;
+package com.cybersec.infra.config;
 
 import io.milvus.client.MilvusServiceClient;
 import io.milvus.param.ConnectParam;

@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.messaging;
+package com.cybersec.infra.messaging;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

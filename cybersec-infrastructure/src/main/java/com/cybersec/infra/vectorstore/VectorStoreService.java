@@ -1,4 +1,4 @@
-package com.cybersec.infrastructure.vectorstore;
+package com.cybersec.infra.vectorstore;
 
 import java.util.List;
 import java.util.Map;
